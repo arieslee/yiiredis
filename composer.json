@@ -1,12 +1,12 @@
 {
-  "name": "dcb9/yii2-phpredis",
+  "name": "sunmoon/yiiredis",
   "description": "yii2 with phpredis",
   "minimum-stability": "stable",
   "license": "BSD",
   "authors": [
     {
-      "name": "Bob Chengbin",
-      "email": "bob@phpor.me"
+      "name": "sunmoon",
+      "email": "forphp@qq.com"
     }
   ],
   "require": {
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "dcb9\\redis\\": ""
+      "sunmoon\\redis\\": ""
     }
   },
   "require-dev": {

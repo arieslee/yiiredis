@@ -8,7 +8,7 @@ if (file_exists(__DIR__ . '/config-local.php')) {
     $param = include(__DIR__ . '/config.php');
 }
 
-$phpRedisConfig = $param['class'] = 'dcb9\redis\Connection';
+$phpRedisConfig = $param['class'] = 'sunmoon\redis\Connection';
 $yiiRedisConfig = $param['class'] = 'yii\redis\Connection';
 
 $app = new \yii\console\Application([
