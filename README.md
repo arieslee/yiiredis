@@ -15,6 +15,7 @@ It includes a `Cache` and `Session` storage handler in redis.
 
 **Notice: THIS REPO DOES NOT SUPPORT ACTIVE RECORD.**
 
+
 **Forked from https://github.com/dcb9/yii2-phpredis.**
 
 Requirements
