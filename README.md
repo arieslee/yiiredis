@@ -14,7 +14,8 @@ It includes a `Cache` and `Session` storage handler in redis.
 [![License](https://poser.pugx.org/sunmoon/yii2-phpredis/license)](https://packagist.org/packages/sunmoon/yiiredis)
 
 **Notice: THIS REPO DOES NOT SUPPORT ACTIVE RECORD.**
-**from https://github.com/dcb9/yii2-phpredis.**
+
+**Forked from https://github.com/dcb9/yii2-phpredis.**
 
 Requirements
 ------------
