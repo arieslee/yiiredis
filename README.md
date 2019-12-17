@@ -5,13 +5,13 @@ This extension provides the [redis](http://redis.io/) key-value store support fo
 It includes a `Cache` and `Session` storage handler in redis.
 
 
-[![Build Status](https://travis-ci.org/dcb9/yii2-phpredis.svg)](https://github.com/arieslee/yiiredis)
+[![Build Status](https://travis-ci.org/sunmoon/yii2-phpredis.svg)](https://github.com/arieslee/yiiredis)
 [![Code Climate](https://github.com/arieslee/yiiredis/badges/gpa.svg)](https://github.com/arieslee/yiiredis)
 [![Test Coverage](https://github.com/arieslee/yiiredis/badges/coverage.svg)](https://github.com/arieslee/yiiredis/coverage)
 [![Issue Count](https://github.com/arieslee/yiiredis/badges/issue_count.svg)](https://github.com/arieslee/yiiredis)
-[![Latest Stable Version](https://poser.pugx.org/dcb9/yii2-phpredis/version)](https://packagist.org/packages/sunmoon/yiiredis)
-[![Total Downloads](https://poser.pugx.org/dcb9/yii2-phpredis/downloads)](https://packagist.org/packages/sunmoon/yiiredis)
-[![License](https://poser.pugx.org/dcb9/yii2-phpredis/license)](https://packagist.org/packages/sunmoon/yiiredis)
+[![Latest Stable Version](https://poser.pugx.org/sunmoon/yii2-phpredis/version)](https://packagist.org/packages/sunmoon/yiiredis)
+[![Total Downloads](https://poser.pugx.org/sunmoon/yii2-phpredis/downloads)](https://packagist.org/packages/sunmoon/yiiredis)
+[![License](https://poser.pugx.org/sunmoon/yii2-phpredis/license)](https://packagist.org/packages/sunmoon/yiiredis)
 
 **Notice: THIS REPO DOES NOT SUPPORT ACTIVE RECORD.**
 **from https://github.com/dcb9/yii2-phpredis.**
@@ -32,13 +32,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist sunmoon/yii2-phpredis
+composer require --prefer-dist sunmoon/yiiredis
 ```
 
 or add
 
 ```json
-"sunmoon/yii2-phpredis": "~1.1.2"
+"sunmoon/yiiredis": "~1.1.1"
 ```
 
 to the require section of your composer.json.
